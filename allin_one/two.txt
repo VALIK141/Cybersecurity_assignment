@@ -1,0 +1,2 @@
+The main similarity is that both viruses and worms self-replicate and spread rapidly. In fact, both can spread exponentially, giving them extreme potential for damage. When it comes to viruses vs. worms, it's safe to say you want to stay far away from both.
+A worm can replicate and spread itself from one computer to another. On the other hand, a virus cannot self-replicate, and it needs to be sent by a user or software to travel between two different computers.

@@ -1,0 +1,11 @@
+A computer WORM is a standalone malware computer program that replicates itself in order to spread to other computers.[1] It often uses a computer network to spread itself, relying on security failures on the target computer to access it. It will use this machine as a host to scan and infect other computers. When these new worm-invaded computers are controlled, the worm will continue to scan and infect other computers using these computers as hosts, and this behaviour will continue.[2] Computer worms use recursive methods to copy themselves without host programs and distribute themselves based on exploiting the advantages of exponential growth, thus controlling and infecting more and more computers in a short time.[3] Worms almost always cause at least some harm to the network, even if only by consuming bandwidth, whereas viruses almost always corrupt or modify files on a targeted computer. 
+A computer worm is a type of malware that spreads copies of itself from computer to computer. It can replicate itself without any human interaction and does not need to attach itself to a software program in order to cause damage. Worms can be transmitted via software vulnerabilities.
+How to help protect against computer worms 
+
+Computer worms are just one example of malicious software. To help protect your computer from worms and other online threats, take these steps.
+Since software vulnerabilities are major infection 
+vectors
+for computer worms, be sure your computer’s operating system and applications are up to date with the latest versions. Install these updates as soon as they’re available because updates often include patches for security flaws.
+Phishing
+is another popular way for hackers to spread worms (and other types of malware). Always be extra cautious when opening unsolicited emails, especially those from unknown senders that contain attachments or dubious links. 
+Be sure to invest in a strong internet security software solution that can help block these threats. A good product should have anti-phishing technology as well as defenses against viruses, spyware, ransomware, and other online threats.
