@@ -1,0 +1,7 @@
+Firewalls provide protection against outside cyber attackers by shielding your computer or network from malicious or unnecessary network traffic. Firewalls can also prevent malicious software from accessing a computer or network via the internet.
+The benefits of a firewall include:
+
+    Protection against unauthorized access and cyber-attacks.
+    Network traffic filtering to block malicious content.
+    Prevention of data breaches and sensitive information leakage.
+    Control over internet usage and access to specific resources. 
