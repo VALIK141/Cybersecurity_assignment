@@ -1,0 +1,17 @@
+def tri_recursion(k):
+    if(k>0):
+        result = k+tri_recursion(k-1)
+        print(result)
+    else:
+        result = 0
+    return result
+    
+tri_recursion(6) 
+
+#LAMBDA
+x = lambda a : a + 10
+print(x(5))
+
+#JSON FUNCTION.
+
+
