@@ -18,16 +18,12 @@ print(Binarysearch(Grades, 5))
 
 
 #palindromes
-
-
 def determinepalindrome(array):
-    start = 0
-    End = len(array) - 1
-    while start <= End:
-        if array[start] != array[End]:
+    left = 0
+    right = len(array) - 1
+    while left <= right:
+        if array[left] != array[right]:
             return False
-        start += 1
-        End =+ 1
-    return true
-print(determinepalindrome("NICHOLAS"))
-
+        left =+ 1
+        right -+ 1
+    return True
